@@ -7,5 +7,3 @@
 # 📊 GitHub Stats
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=fblrkus&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 <img src="https://streak-stats.demolab.com?user=fblrkus&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph" />
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
